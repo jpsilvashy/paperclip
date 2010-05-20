@@ -10,7 +10,7 @@ end.flatten
 
 spec = Gem::Specification.new do |s| 
   s.name              = "paperclip"
-  s.version           = Paperclip::VERSION
+  s.version           = "2.3.1.1"
   s.author            = "Jon Yurek"
   s.email             = "jyurek@thoughtbot.com"
   s.homepage          = "http://www.thoughtbot.com/projects/paperclip"
